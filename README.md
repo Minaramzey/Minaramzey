@@ -5,7 +5,7 @@
 <br />
 🌱 I’m currently learning Ionic Framework Development
 
-### Connect With me:
+### Connect With Me:
 ### [LinkedIn](https://www.linkedin.com/in/mina-ramzey/)
 ### [Twitter](https://twitter.com/MinaRamzey)
 
