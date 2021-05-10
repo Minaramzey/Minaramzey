@@ -2,6 +2,7 @@
 
 ### I'm Full Stack Web Developer 
 🔭 I’m currently working on a passion project
+<br />
 🌱 I’m currently learning Ionic Framework Development
 
 ### Connect With me!
